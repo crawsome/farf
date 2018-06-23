@@ -51,7 +51,8 @@ class farfer():
     def printhelp(self):
         print('FaRF - Find and Rename Files - Colin Burke 2018\n'
               'USAGE:\n'
-              'farfest.py <path:str> <self.search_string:str> <self.replace_with:str>\n'
+              'farf.py <path:str> <self.search_string:str> <self.replace_with:str>\n'
+              'Ex: farf.py ../dummydir foo bar\n'
               )
 
 if __name__ == '__main__':
